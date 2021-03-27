@@ -1,2 +1,2 @@
-# password_manager
-Password Manager
+# Password Manager
+App to manage your multiple passwords.
