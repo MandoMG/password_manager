@@ -1,0 +1,20 @@
+{
+  "name": "password_manager",
+  "version": "1.0.0",
+  "description": "App to manage your multiple passwords",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": "https://github.com/MandoMG/password_manager.git",
+  "author": "Armando Meza <mando.mg.91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
